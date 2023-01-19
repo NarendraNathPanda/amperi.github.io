@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.bg_img {
+    height: 100vh;
+    width: 100%;
+    background-image: url("../image/temple.jpg");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.navbar {
+    margin: auto;
+    padding: 30px;
+    width: 80;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(255, 252, 252);
+}
+
+.navbar ul li a:hover {}
