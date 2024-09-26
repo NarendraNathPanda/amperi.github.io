@@ -1,3 +1,8 @@
+## Demo
+https://narendranathpanda.github.io/amperi.github.io/
+
+![logo](https://github.com/NarendraNathPanda/amperi.github.io/blob/main/image/temple.jpg)
+
 # amperi.github.io
 
 		-----------------------------------------
@@ -33,9 +38,7 @@ https://github.com/NarendraNathPanda?tab=repositories
 
 blogger.com
 
-1.   https://easywayprogrammingn.blogspot.com
-
-2.   https://easywayprogrammingn.blogspot.com/search/label/Unix%20Commond%20%2F%20Shall%20programming
+1.   https://nnpssb.blogspot.com/
 
 =====================================================================================
 /////////////////////////////////////////////////////////////////////////////////////
