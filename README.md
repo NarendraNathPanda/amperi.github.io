@@ -1,4 +1,4 @@
-## Demo
+## View
 https://narendranathpanda.github.io/amperi.github.io/
 
 ![logo](https://github.com/NarendraNathPanda/amperi.github.io/blob/main/image/temple.jpg)
